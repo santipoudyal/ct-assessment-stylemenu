@@ -3,7 +3,7 @@
     Add a CSS ruleset to accomplish the following:
     - Use the 'Oswald' font family at 14px throughout the body of the document.
 */
-body {font-family: "oswld";
+body {font-family: "oswald";
 font-size: 14px;
 }
 nav {
